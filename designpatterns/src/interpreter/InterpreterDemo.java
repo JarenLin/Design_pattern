@@ -1,9 +1,5 @@
-package interpreterdemo;
+package interpreter;
 
-import interpreter.AndExpression;
-import interpreter.Expression;
-import interpreter.OrExpression;
-import interpreter.TerminalExpression;
 
 public class InterpreterDemo {
 	
